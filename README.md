@@ -1,8 +1,6 @@
 # YOLO
 
 ![Status](https://img.shields.io/badge/Status-Minimal_Test-red?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/orange-05/yolo?style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/orange-05/yolo?style=for-the-badge)
 
 > **Minimal test repository** -- Created for quick Git/GitHub functionality verification.
 
